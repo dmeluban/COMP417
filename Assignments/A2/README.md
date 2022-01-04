@@ -1,1 +1,1 @@
-Project involving intergrating RRT algorithm
+Project involving intergrating RRT planning algorithm and PID controller.
