@@ -1,2 +1,2 @@
 # COMP417
-Robotics and Intelligent Systems
+McGill University - Robotics and Intelligent Systems
